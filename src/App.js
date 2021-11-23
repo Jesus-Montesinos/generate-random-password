@@ -28,7 +28,7 @@ function App() {
         <div class="row">
           <div class="col">
             <label>
-              <span className="lbl-len">Length:</span>
+              <span className="lbl-len">Length::</span>
               <input
                 type="number"
                 className="input-len form-control"
